@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635251676 source:c:\users\student\documents\new folder\quadratic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
